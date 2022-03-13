@@ -1,0 +1,49 @@
+body{background-color: #C7C7C7;}
+	.t-box {
+		margin: auto;
+		width: 50%;
+		text-align: center;
+	}
+	.center_image{
+		width: 300px;
+		height: 300px;
+	}
+	.button{
+		height: 300px;
+		width: 40px;
+		color: black;
+		position: relative;
+		top: -145px;
+		text-align: center;
+	}
+	.desc{
+		position: relative;
+		top: -145px;
+	}
+	.name{
+		margin: auto;
+		width: 50%;
+		text-align: center;
+	}.sidenav {
+	height: 100%;
+	width: 200px;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	background-color: #8C8C8C;
+	overflow-x: hidden;
+	padding-top: 20px;
+}
+	.sidenav a {
+		padding: 8px 8px 8px 32px;
+		text-decoration: none;
+		font-size: 25px;
+		color: #f1f1f1;
+		display: block;
+		transition: 0.3s;
+	}
+	.sidenav a:hover {
+		color: #cbc9ff;
+	}
+	
